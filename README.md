@@ -14,8 +14,10 @@ I love building applications that are clean, maintainable, and intuitive for bot
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="32" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="35" />
 </p>
+
+MERN Stack (MongoDB · Express · React · Node.js)
 
 ---
 
