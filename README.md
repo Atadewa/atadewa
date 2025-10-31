@@ -33,6 +33,10 @@ I love building applications that are clean, maintainable, and intuitive for bot
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atadewa&layout=compact&theme=tokyonight&langs_count=6&card_width=400" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=atadewa&theme=tokyonight" width="400" />
+</p>
+
 ---
 
 ### 📫 Connect With Me
