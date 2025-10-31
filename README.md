@@ -29,8 +29,8 @@ I love building applications that are clean, maintainable, and intuitive for bot
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atadewa&show_icons=true&theme=tokyonight&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atadewa&layout=compact&theme=tokyonight&langs_count=6" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atadewa&show_icons=true&theme=tokyonight&rank_icon=github" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atadewa&layout=compact&theme=tokyonight&langs_count=6&card_width=400" width="400" />
 </p>
 
 ---
